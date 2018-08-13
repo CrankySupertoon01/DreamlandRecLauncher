@@ -1,0 +1,18 @@
+{
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : "Dreamland Recrafted",
+      "thumb" : null,
+      "name" : "DreamlandRecrafted",
+      "version" : "1.0.0",
+      "key" : null,
+      "server" : {
+        "serverHost" : "144.76.156.59",
+        "serverPort" : 31021
+      },
+      "location" : "dreamlandrecrafted.json",
+      "priority" : 0
+    }
+  ]
+}
